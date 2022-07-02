@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vk-stat-app/static/css/main.5c65f8c2.css",
-    "main.js": "/vk-stat-app/static/js/main.20d0464c.js",
+    "main.js": "/vk-stat-app/static/js/main.be49f2cf.js",
     "static/media/bg.jpg": "/vk-stat-app/static/media/bg.7dfacd1b64c17aafc4cc.jpg",
     "index.html": "/vk-stat-app/index.html",
     "main.5c65f8c2.css.map": "/vk-stat-app/static/css/main.5c65f8c2.css.map",
-    "main.20d0464c.js.map": "/vk-stat-app/static/js/main.20d0464c.js.map"
+    "main.be49f2cf.js.map": "/vk-stat-app/static/js/main.be49f2cf.js.map"
   },
   "entrypoints": [
     "static/css/main.5c65f8c2.css",
-    "static/js/main.20d0464c.js"
+    "static/js/main.be49f2cf.js"
   ]
 }
